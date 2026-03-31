@@ -60,6 +60,7 @@
                     <h2 class="text-3xl font-bold text-indigo-950">Baseline de Configuração</h2>
                     <p class="text-slate-600">Marco de referência estável para os Itens de Configuração (ICS).</p>
                     <p class="text-slate-600">Adicionaei essa linha e vou comitar direto na produção.</p>
+                    <p class="text-slate-600">Adicionaei essa linha para homolagação.</p>
                 </div>
                 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
