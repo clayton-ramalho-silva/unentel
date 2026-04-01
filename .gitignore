@@ -18,4 +18,7 @@ yarn-error.log
 /.idea
 /.vscode
 notes.txt
+.vscode/sftp.json
+.vscode/sftp-prod.json
+.vscode/sftp-dev.json
 
