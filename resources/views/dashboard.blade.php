@@ -61,6 +61,8 @@
                     <p class="text-slate-600">Marco de referência estável para os Itens de Configuração (ICS).</p>
                     <p class="text-slate-600">Adicionaei essa linha e vou comitar direto na produção.</p>
                     <p class="text-slate-600">Adicionaei essa linha para homolagação.</p>
+                    <p class="text-slate-600">Adicionaei essa linha para teste ftp na homologação 3.</p>
+                    <p class="text-slate-600">Tive que reiniciar o vscode.</p>
                 </div>
                 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
