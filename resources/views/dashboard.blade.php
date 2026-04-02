@@ -63,6 +63,7 @@
                     <p class="text-slate-600">Adicionaei essa linha para homolagação.</p>
                     <p class="text-slate-600">Adicionaei essa linha para teste ftp na homologação 3.</p>
                     <p class="text-slate-600">Tive que reiniciar o vscode.</p>
+                    <p class="text-slate-600">Fluxo novo via ftp somente na dev.</p>
                 </div>
                 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
